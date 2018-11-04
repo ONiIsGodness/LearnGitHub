@@ -4,3 +4,4 @@ Git has a mutable index called stage
 Git tracks changes. 
 Hello GitHub...
  Hello dev 
+Create a new branch is quick and simple.
