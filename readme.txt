@@ -5,3 +5,5 @@ Git tracks changes.
 Hello GitHub...
  Hello dev 
 Create a new branch is quick and simple.
+
+Git work in the moudle of --no-ff
